@@ -73,17 +73,8 @@ streamlit run app.py
 
 ---
 
-## 📸 Screenshots
 
-### 🏠 App Homepage
-![App Homepage](screenshots/home.png)
 
-### 📊 Prediction Example
-![Prediction Result](screenshots/prediction.png)
-
-*(Add screenshots by placing images inside a `screenshots/` folder and updating the file paths above.)*
-
----
 
 ## 🔮 Future Improvements
 - 📝 Implement advanced **text preprocessing** (stopwords, punctuation removal, n-grams).  
